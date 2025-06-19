@@ -1,4 +1,4 @@
-# ¡Hola! Soy ivanmplsc ![IVAN](https://img.shields.io/badge/%20IVANMPLSC%20-20BAA?style=for-the-badge)
+# ¡Hola! Soy ivanmplsc 
 
 ## Sobre mí
 Soy estudiante del curso **"Automatización y Gestión de Proyectos con
@@ -25,6 +25,7 @@ Publicado con GitHub Pages
 - [x] Implementar GitOps
 - [ ] Contribuir a proyectos open source
 ## Cómo contactarme
+![IVAN](https://img.shields.io/badge/%20IVANMPLSC%20-20BAA?style=for-the-badge)
 - **Email:** ivanmplsc@outlook.com
 - **LinkedIn:** ivanmplsc
 - **GitHub:** [@ivanmplsc](https://github.com/ivanmplsc)
