@@ -7,11 +7,12 @@ colaborativo y DevOps.
 - **Control de versiones:** Git, GitHub
 - **CI/CD:** GitHub Actions
 - **Infraestructura:** Docker, Kubernetes
-- **Lenguajes:** JavaScript, Python, [agregar otros]
-- **Herramientas:** VS Code, Terminal, [agregar otras]
+- **Lenguajes:** JavaScript, Python
+- **Herramientas:** VS Code, Terminal, Git Bash
 ## Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanmplsc&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=ivanmplsc&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmplsc&hide=javascript,css,scss,html&theme=tokyonight)
 ## Proyectos destacados
 - **[github-course-lab1](https://github.com/curso-git-hub-martinez/github-course-lab1)** -
 Laboratorio de configuración inicial
