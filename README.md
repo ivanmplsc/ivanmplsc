@@ -1,4 +1,4 @@
-# ¡Hola! Soy ivanmplsc 👋
+# ¡Hola! Soy ivanmplsc ![IVAN](https://img.shields.io/badge/%20IVANMPLSC%20-20BAA?style=for-the-badge)
 
 ## Sobre mí
 Soy estudiante del curso **"Automatización y Gestión de Proyectos con
