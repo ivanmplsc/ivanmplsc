@@ -8,7 +8,8 @@ colaborativo y DevOps.
 - **Control de versiones:** Git, GitHub
 - **CI/CD:** GitHub Actions
 - **Infraestructura:** Docker, Kubernetes
-- **Lenguajes:** [JavaScript](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54), [Pyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- **Lenguajes:** [JavaScript](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54),
+- ![Pyton](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - **Herramientas:** VS Code, Terminal, Git Bash
 ## Estadísticas de GitHub
