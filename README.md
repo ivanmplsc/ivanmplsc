@@ -13,19 +13,19 @@ colaborativo y DevOps.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[tuusername]&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=[tu-username]&layout=compact&theme=radical)
 ## Proyectos destacados
-- **[github-course-lab1](https://github.com/[tu-org]/github-course-lab1)** -
+- **[github-course-lab1](https://github.com/curso-git-hub-martinez/github-course-lab1)** -
 Laboratorio de configuración inicial
-- **[Mi sitio web](https://[tu-org].github.io/github-course-lab1)** -
+- **[Mi sitio web](https://github.com/curso-git-hub-martinez/github-course-lab1)** -
 Publicado con GitHub Pages
 ## Objetivos actuales
 - [x] Dominar Git y GitHub
 - [x] Configurar pipelines de CI/CD
-- [ ] Implementar GitOps
+- [x] Implementar GitOps
 - [ ] Contribuir a proyectos open source
 ## Cómo contactarme
-- **Email:** [tu-email@ejemplo.com]
-- **LinkedIn:** [tu-perfil-linkedin]
-- **GitHub:** [@tu-username](https://github.com/tu-username)
+- **Email:** ivanmplsc@outlook.com
+- **LinkedIn:** ivanmplsc
+- **GitHub:** [@ivanmplsc](https://github.com/ivanmplsc)
 ## Badges del curso
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-thebadge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-thebadge&logo=git&logoColor=white)
