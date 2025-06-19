@@ -1,7 +1,5 @@
-# ¡Hola! Soy ivanmplsc
-<div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
+# ¡Hola! Soy ivanmplsc 👋
+
 ## Sobre mí
 Soy estudiante del curso **"Automatización y Gestión de Proyectos con
 GitHub"** y estoy aprendiendo las mejores prácticas para desarrollo
@@ -10,7 +8,7 @@ colaborativo y DevOps.
 - **Control de versiones:** Git, GitHub
 - **CI/CD:** GitHub Actions
 - **Infraestructura:** Docker, Kubernetes
-- **Lenguajes:** JavaScript, Python
+- **Lenguajes:** JavaScript, (https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [![JavaScript](https://img.shields.io/badge/javascript-es6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Herramientas:** VS Code, Terminal, Git Bash
 ## Estadísticas de GitHub
