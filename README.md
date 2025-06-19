@@ -1,4 +1,7 @@
 # ¡Hola! Soy ivanmplsc
+<div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
 ## Sobre mí
 Soy estudiante del curso **"Automatización y Gestión de Proyectos con
 GitHub"** y estoy aprendiendo las mejores prácticas para desarrollo
