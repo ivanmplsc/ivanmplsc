@@ -8,6 +8,7 @@ colaborativo y DevOps.
 - **CI/CD:** GitHub Actions
 - **Infraestructura:** Docker, Kubernetes
 - **Lenguajes:** JavaScript, Python
+- [![JavaScript](https://img.shields.io/badge/javascript-es6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - **Herramientas:** VS Code, Terminal, Git Bash
 ## Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanmplsc&show_icons=true&theme=tokyonight)
