@@ -10,9 +10,8 @@ colaborativo y DevOps.
 - **Lenguajes:** JavaScript, Python
 - **Herramientas:** VS Code, Terminal, Git Bash
 ## Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanmplsc&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=ivanmplsc&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmplsc&hide=javascript,css,scss,html&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivanmplsc&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmplsc&hide=javascript,css,scss,html&theme=radical)
 ## Proyectos destacados
 - **[github-course-lab1](https://github.com/curso-git-hub-martinez/github-course-lab1)** -
 Laboratorio de configuración inicial
