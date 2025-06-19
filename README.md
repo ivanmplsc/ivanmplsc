@@ -16,7 +16,7 @@ colaborativo y DevOps.
 ## Proyectos destacados
 - **[github-course-lab1](https://github.com/curso-git-hub-martinez/github-course-lab1)** -
 Laboratorio de configuración inicial
-- **[Mi sitio web](https://github.com/curso-git-hub-martinez/github-course-lab1)** -
+- **[Mi sitio web](https://curso-git-hub-martinez.github.io/github-course-lab1/)** -
 Publicado con GitHub Pages
 ## Objetivos actuales
 - [x] Dominar Git y GitHub
